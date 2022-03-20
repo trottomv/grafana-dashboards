@@ -1,1 +1,1 @@
-# graphana-dashboards
+# grafana-dashboards
